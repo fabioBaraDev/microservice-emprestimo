@@ -1,6 +1,5 @@
 package nossagrana.emprestimo.service.impl;
 
-import com.sun.el.stream.Optional;
 import nossagrana.emprestimo.dto.AtualizarEmprestimoDTO;
 import nossagrana.emprestimo.dto.EmprestimoDTO;
 import nossagrana.emprestimo.dto.SolicitarEmprestimoDTO;
